@@ -1,0 +1,11 @@
+{
+  "name": "ip-check",
+  "version": "0.0.0",
+  "description": "A simple utility for getting the public IP address of your server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
